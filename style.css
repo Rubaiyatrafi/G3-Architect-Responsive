@@ -44,3 +44,123 @@
   margin-top: 200px;
 }
 /* Heading styles end  */
+
+/* Body part - 1  */
+
+.body-1 {
+  display: flex;
+  font-family: "Work Sans", sans-serif;
+}
+.team {
+  display: grid;
+  grid-template-columns: repeat(2, 2fr);
+  margin-left: 300px;
+  margin-top: 100px;
+}
+.team-img {
+  padding: 20px;
+}
+.body-header {
+  margin-top: 300px;
+  font-size: 50px;
+  font-weight: bold;
+  margin-left: 20px;
+}
+.body-text {
+  color: #424242;
+  font-size: 15px;
+  margin-left: 20px;
+}
+.body-btn {
+  color: white;
+  background-color: orange;
+  border: none;
+  border-radius: 5px;
+  height: 50px;
+  width: 150px;
+  top: 450px;
+  left: 850px;
+  font-size: 15px;
+  margin-left: 20px;
+  margin-top: 30px;
+}
+
+/* Body part - 1 end */
+
+/* Body part-2  */
+.body-2 {
+  display: flex;
+  font-family: "Work Sans", sans-serif;
+}
+.border {
+  position: absolute;
+  background-color: #ff900e;
+  width: 6px;
+  height: 100px;
+  margin-left: 200px;
+  margin-top: 70px;
+}
+.heading-3 {
+  position: absolute;
+  margin-left: 250px;
+  margin-top: 70px;
+  font-size: 45px;
+}
+.features {
+  margin-left: 250px;
+  border: 1px solid white;
+  margin-top: 25px;
+  box-shadow: 30px 30px 20px rgba(255, 144, 14, 0.1);
+}
+.body-img {
+  margin-top: 70px;
+  margin-left: 80px;
+  height: 900px;
+}
+.body-btn-2 {
+  position: absolute;
+  height: 100px;
+  width: 200px;
+  top: 3070px;
+  left: 900px;
+  background-color: #ff900e;
+  color: white;
+  font-size: 25px;
+  border: none;
+  border-radius: 10px;
+}
+/* Body part-2 end  */
+
+/* Body part-3  */
+
+.body-3 {
+  font-family: "Work Sans", sans-serif;
+  margin-top: 200px;
+}
+.body-header-2 {
+  font-size: 40px;
+  margin-left: 250px;
+}
+.body-text-2 {
+  color: #424242;
+  margin-left: 250px;
+}
+.icon {
+  display: flex;
+}
+.icons {
+  margin-left: 200px;
+  margin-right: 50px;
+  margin-top: 50px;
+  border: 2px solid orange;
+  border-radius: 10px;
+  text-align: center;
+  height: 200px;
+  width: 400px;
+}
+.icons:hover {
+  color: blue;
+  background-color: aquamarine;
+}
+
+/* Body part-3  */
