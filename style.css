@@ -152,15 +152,48 @@
   margin-left: 200px;
   margin-right: 50px;
   margin-top: 50px;
-  border: 2px solid orange;
+  border: 1px solid white;
   border-radius: 10px;
   text-align: center;
   height: 200px;
   width: 400px;
+  box-shadow: 20px 20px 20px rgba(255, 144, 14, 0.1);
 }
 .icons:hover {
   color: blue;
-  background-color: aquamarine;
+  background-color: orange;
 }
 
-/* Body part-3  */
+/* Body part-3 end */
+
+/* Body part-4  */
+.body-4 {
+  font-family: "Work Sans", sans-serif;
+  margin-top: 200px;
+}
+.Heading-4 {
+  font-size: 60px;
+  margin-left: 800px;
+}
+.body-text-3 {
+  margin-left: 750px;
+}
+.icons-2 {
+  padding: 50px;
+  margin-left: 80px;
+  margin-top: 50px;
+}
+
+/* Body part-4 end  */
+
+/* footer  */
+.footer {
+  background-color: antiquewhite;
+  height: 50px;
+  width: 50%;
+  margin-left: 450px;
+  text-align: center;
+  margin-top: 100px;
+  border-radius: 20px;
+}
+/* footer end  */
